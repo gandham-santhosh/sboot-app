@@ -56,7 +56,7 @@ jobs:
     needs: [build, gen-matrix]
 
     env:
-      NAME: Santhosh
+      NAME: SanthoshG
 
     steps:
 
